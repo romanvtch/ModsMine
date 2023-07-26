@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!-- This sitemap contains URLs for the ModsMine website. It helps search engines discover and index our pages more efficiently. -->
+
+    <url>
+        <loc>https://www.modsmine.fun/</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/minecraft-pe-1.20</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/captive-survival-mcpe-1.19-1.20</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/lif-f-z-i-add-n-n-w-b-ss</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/dynamic-third-person-camera</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/morningstar-war-pack-v4-new-guns</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/pet-furniture-2.0-update</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/c4-mod</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/mob-animations-overhaul-mcpe</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/environment-sounds-pack</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/holograms-on-dropped-items</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/bocchi-the-glock-3d-guns-addon</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/factory-machinery-add-on</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/multiplayer-waypoint-system-addon</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/blue-archive-addon-3d-guns</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/stalker-mobile-minecraft-pe</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/russian-military-v4</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/jenny-mod-minecraft-pe</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/vic-s-modern-warfare-mcpe</loc>
+        <lastmod>2023-07-20T22:49:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/privacy</loc>
+        <lastmod>2023-07-20T22:48:55+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/terms</loc>
+        <lastmod>2023-07-20T22:48:21+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.modsmine.fun/about</loc>
+        <lastmod>2023-07-20T22:47:46+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+</urlset>

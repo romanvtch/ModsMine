@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/styled/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Welcome to ModsMine - Learn about us and our mission">
+    <meta name="keywords" content="About Us - ModsMine">
+    <link rel="shortcut icon" href="/assets/img/logoSite.png" type="image/x-icon">
+    <title>Discover the World of ModsMine - About Us and Our Mission</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <div class="header__over">
+                <div class="header__container">
+                    <a class="logo" href="https://www.modsmine.fun/">
+                        <h1>Mods<span>Mine</span></h1>
+                        <img src="/assets/img/logo.png" alt="logo modsmine">
+                    </a>
+
+            <nav class="nav">
+                <input class="search search10" type="text" placeholder="Search..">
+                    <svg class="svg svg1" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+        <path d="M23.809 21.646l-6.205-6.205c1.167-1.605 1.857-3.579 1.857-5.711 0-5.365-4.365-9.73-9.731-9.73-5.365 0-9.73 4.365-9.73 9.73 0 5.366 4.365 9.73 9.73 9.73 2.034 0 3.923-.627 5.487-1.698l6.238 6.238 2.354-2.354zm-20.955-11.916c0-3.792 3.085-6.877 6.877-6.877s6.877 3.085 6.877 6.877-3.085 6.877-6.877 6.877c-3.793 0-6.877-3.085-6.877-6.877z" />
+                </svg>
+                <a href="mailto:modsminehelp@gmail.com">Contact</a>
+            </nav>
+
+                <script>
+                    const search = document.querySelector('.search');
+                    const svgOpen = document.querySelector('.svg1');
+                    svgOpen.addEventListener('click', () => {
+                    search.classList.toggle('active ');
+                    });
+                </script>
+
+                    <div class="menu" id="menu">
+                        <span class="line line1"></span>
+                        <span class="line line2"></span>
+                        <span class="line line3"></span>
+                    </div>
+
+                </div>
+            </div>
+
+            <ul class="nav__list" id="nav__list">
+             <input style="
+             max-width:95%; 
+             width:100%; 
+             background:#fff; 
+             text-align:center; 
+             padding:12px 10px; 
+             margin:12px 9.5px; 
+             border-radius:5px;" 
+             class="search search11" 
+             type="text" 
+             placeholder="Search..">
+            </ul>
+
+            <script>
+                const menu = document.getElementById('menu'),
+                    navList = document.getElementById('nav__list');
+                menu.addEventListener('click', () => {
+                    menu.classList.toggle('active');
+                    navList.classList.toggle('active');
+                });
+            </script>
+        </header>
+         <main class="main">
+              <article class="article">
+                <img class="main__logo" src="https://i.ibb.co/TkjS0dq/modsmine.webp" alt="modsmine logomain" width="100%">
+                <h2 style="margin-top:20px;">About US - ModsMine</h2>
+                <p style="font-size:20px;">Our mission is to create a large community of players in Minecraft PE. By publishing content about the game, we increase the audience and form our goal. We want to help every player find what they are looking for.</p>
+                <p style="font-size:20px;">The <a style="color:crimson;" href="https://www.modsmine.fun/">ModsMine</a> project launched on April 8, 2023. Our website audience is growing every day. Every day a team of several editors adds content. There are already many interesting publications on various topics in our catalog:</p>
+                <p style="font-size:20px;">Thank you for staying with us! And remember: "Minecraft starts here."</p>
+                <p style="font-size:20px;">You can contact us through <a href="mailto:modsminehelp@gmail.com">Contacts.</a></p>
+                               <style>
+                               h2{
+                                   color: #fff;
+                               }
+                   p{
+                       font-size: 20px;
+                       padding: 1rem 0;
+                       color: #fff;
+                   }
+                   a{
+                       color:crimson;
+                   }
+               </style>
+                </article>
+
+            <aside class="aside">
+                <div class="aside__container">
+                    <a href="/minecraft-pe-1.20" class="aside__content">
+                        <img src="/assets/img/sideBar.jpg" alt="mods minecraft modsmine" width="100%">
+                        <p>Minecraft PE 1.20</p>
+                    </a>
+                    <a href="/vic-s-modern-warfare-mcpe" class="aside__content">
+                        <img src="/assets/img/sideBar1.jpg" alt="mods minecraft modsmine" width="100%">
+                        <p>Vic's Modern Warfare MCPE</p>
+                    </a>
+                    <a href="/jenny-mod-minecraft-pe" class="aside__content">
+                        <img src="/assets/img/sideBar2.jpg" alt="mods minecraft modsmine" width="100%">
+                        <p>Jenny mod - Minecraft PE 1.20</p>
+                    </a>
+                    <div class="aside__social">
+                        <a target="_blank" href="https://www.youtube.com/@modsmine">
+                            <img class="item__social" src="/assets/img/youtube.png" alt="mods minecraft modsmine">
+                        </a>
+                        <a target="_blank" href="https://t.me/minemodsp">
+                            <img class="item__social" src="/assets/img/telegram.png" alt="mods minecraft modsmine">
+                        </a>
+                    </div>
+                </div>
+            </aside>
+        </main>
+                <footer class="footer">
+            <div class="footer__container">
+                <div class="footer__link">
+                    <a class="logo" href="https://www.modsmine.fun/">
+                        <h1>Mods<span>Mine</span></h1>
+                        <img src="/assets/img/logo.png" alt="mods mine logo">
+                    </a>
+                    <div class="about">
+                        <a  href="https://www.modsmine.fun/privacy">Privacy</a>
+                        <a  href="https://www.modsmine.fun/terms">Terms of Use</a>
+                        <a  href="https://www.modsmine.fun/about">About us</a>
+
+                    </div>
+                </div>
+                <p class="copyright">© Copyright 2023 ModsMine. All rights reserved</p>
+            </div>
+        </footer>
+    </div>
+  
+    </body>
+
+</html>
