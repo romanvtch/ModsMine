@@ -1,8 +1,8 @@
 <?php
-$host = 'modsmi0.mysql.tools';
-$db = 'modsmi0_db';
-$user = 'modsmi0_db';
-$password = '5emDvqyw';
+$host = '';
+$db = '';
+$user = '';
+$password = '';
 
 // Встановлення з'єднання з базою даних
 $conn = new mysqli($host, $user, $password, $db);
