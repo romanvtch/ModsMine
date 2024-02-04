@@ -1,7 +1,5 @@
 <?php
-// Підключення до бази даних
 require_once 'db_connect.php';
-//Завантаження функцій для трансліта
 require_once 'functions.php';
 
 $result = $conn->query("SELECT * FROM post");
